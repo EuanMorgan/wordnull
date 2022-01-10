@@ -1,0 +1,2 @@
+# wordnull
+Wordle but worse
